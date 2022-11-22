@@ -2,7 +2,7 @@
 
 Web Developer || IT Student
 
-🎓 I’m currently pursuing B.Tech in Information Technology
+🎓 I have done B.Tech in Information Technology in 2022
 
 📣 Ask me about Frontend Development
 
