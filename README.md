@@ -1,4 +1,4 @@
-👋 Hi, I’m Km Mansi
+👋 Hi, I’m Mansi
 
 Web Developer || IT Student
 
